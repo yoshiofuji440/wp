@@ -1,0 +1,10 @@
+2020-02-11T21:25:40+00:00 CRITICAL Uncaught Error: Call to undefined function logging_page_access() in /home/c4434047/public_html/bousaikun.info/wp-content/themes/cocoon-master/lib/analytics/access.php:14
+Stack trace:
+#0 {main}
+  thrown
+
+2020-02-11T21:26:00+00:00 CRITICAL Uncaught Error: Call to undefined function logging_page_access() in /home/c4434047/public_html/bousaikun.info/wp-content/themes/cocoon-master/lib/analytics/access.php:14
+Stack trace:
+#0 {main}
+  thrown
+

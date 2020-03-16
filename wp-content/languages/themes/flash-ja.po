@@ -1,0 +1,1697 @@
+# Translation of Themes - Flash in Japanese
+# This file is distributed under the same license as the Themes - Flash package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-08-05 05:16:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Flash\n"
+
+#. Description of the plugin/theme
+msgid "Flash is free responsive multipurpose WordPress theme – truly a versatile theme perfect for any type of website you want. Like never before, it provides multiple pre-built demos which can be imported in seconds using ThemeGrill Demo Importer Plugin. The theme fully integrates with Flash Toolkit and SiteOrigin’s Page Builder Plugin that makes theme more user-friendly and easy. Additionally, theme features multiple blog layouts, WooCommerce support, multiple header styles, multiple color options etc."
+msgstr "Flash は、フリーのレスポンシブ多目的 WordPress テーマです。– あらゆるタイプのウェブサイトに最適です。これまでにないような、複数のデモを ThemeGrill Demo Importer プラグインを使用して数秒でインポートできます。テーマは Flash Toolkit と SiteOrigin’s Page Builderr プラグインに完全に統合されているので、より使いやすく簡単にできます。さらに、テーマには複数のレイアウト、WooCommerce のサポート、複数のヘッダースタイル、複数の色オプションなどがあります。"
+
+#. #-#-#-#-#  flash.pot (Flash 1.1.3)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/class-flash-admin.php:347
+msgid "Flash"
+msgstr "Flash"
+
+#: inc/demo-config.php:78
+msgid "Flash Pro Wedding"
+msgstr "Flash Pro Wedding"
+
+#: inc/demo-config.php:73
+msgid "Flash Pro Store"
+msgstr "Flash Pro Store"
+
+#: inc/demo-config.php:68
+msgid "Flash Pro Health"
+msgstr "Flash Pro Health"
+
+#: inc/demo-config.php:63
+msgid "Flash Pro Gym"
+msgstr "Flash Pro Gym"
+
+#: inc/demo-config.php:58
+msgid "Flash Pro Education"
+msgstr "Flash Pro Education"
+
+#: inc/demo-config.php:53
+msgid "Flash Pro Church"
+msgstr "Flash Pro Church"
+
+#: inc/demo-config.php:48
+msgid "Flash Pro Default"
+msgstr "Flash Pro Default"
+
+#: inc/demo-config.php:44
+msgid "Flash Construction V2"
+msgstr "Flash Construction V2"
+
+#: inc/demo-config.php:40
+msgid "Flash Food V2"
+msgstr "Flash Food V2"
+
+#: inc/class-flash-admin.php:503
+msgid "FT: WooCommerce Product Tab"
+msgstr "FT: WooCommerce 商品タブ"
+
+#: inc/class-flash-admin.php:498
+msgid "FT: WooCommerce Category Slider"
+msgstr "FT: WooCommerce カテゴリースライダー"
+
+#: inc/class-flash-admin.php:493
+msgid "FT: Separator"
+msgstr "FT: 区切り"
+
+#: inc/class-flash-admin.php:488
+msgid "FT: Pricing Table"
+msgstr "FT: 料金テーブル"
+
+#: inc/class-flash-admin.php:483
+msgid "FT: Instagram Slider"
+msgstr "FT: Instagram スライダー"
+
+#: inc/class-flash-admin.php:478
+msgid "FT: Progress Bar"
+msgstr "FT: プログレスバー"
+
+#: inc/class-flash-admin.php:473
+msgid "FT: Post Slider"
+msgstr "FT: 投稿スライダー"
+
+#: inc/class-flash-admin.php:468
+msgid "FT: Google Map"
+msgstr "FT: Google マップ"
+
+#: inc/class-flash-admin.php:463
+msgid "FT: Blog"
+msgstr "FT: ブログ"
+
+#: inc/class-flash-admin.php:458
+msgid "FT: Animated Number Counter"
+msgstr "FT: アニメーション数字カウンター"
+
+#: inc/class-flash-admin.php:455
+msgid "1 New Style"
+msgstr "1つの新しいスタイル"
+
+#: inc/class-flash-admin.php:453
+msgid "FT: Portfolio Widget"
+msgstr "FT: ポートフォリオウィジェット"
+
+#: inc/class-flash-admin.php:448
+msgid "FT: Team Widget"
+msgstr "FT: チームウィジェット"
+
+#: inc/class-flash-admin.php:445 inc/class-flash-admin.php:450
+#: inc/class-flash-admin.php:460
+msgid "4 New Styles"
+msgstr "4つの新しいスタイル"
+
+#: inc/class-flash-admin.php:443
+msgid "FT: Testimonial Widget"
+msgstr "FT: 推薦文ウィジェット"
+
+#: inc/class-flash-admin.php:438
+msgid "FT: Call To Action Widget"
+msgstr "FT: コールトゥアクションウィジェット"
+
+#: inc/class-flash-admin.php:433
+msgid "FT: Service Widget"
+msgstr "FT: サービスウィジェット"
+
+#: inc/class-flash-admin.php:430 inc/class-flash-admin.php:435
+#: inc/class-flash-admin.php:440 inc/class-flash-admin.php:465
+msgid "3 New Styles"
+msgstr "3つの新しいスタイル"
+
+#: inc/class-flash-admin.php:428
+msgid "FT: Heading Widget"
+msgstr "FT: 見出しウィジェット"
+
+#: inc/class-flash-admin.php:425
+msgid "Forum + Emails/Support Ticket"
+msgstr "フォーラム + メール / サポートチケット"
+
+#: inc/class-flash-admin.php:424
+msgid "Forum"
+msgstr "フォーラム"
+
+#: inc/class-flash-admin.php:423
+msgid "Support"
+msgstr "サポート"
+
+#: inc/class-flash-admin.php:420
+msgid "7"
+msgstr "7"
+
+#: inc/class-flash-admin.php:418
+msgid "Demo Content"
+msgstr "デモコンテンツ"
+
+#: inc/class-flash-admin.php:413
+msgid "Widget Animations"
+msgstr "ウィジェットのアニメーション"
+
+#: inc/class-flash-admin.php:408
+msgid "Video Background"
+msgstr "動画背景"
+
+#: inc/class-flash-admin.php:403
+msgid "Custom Widget Area Builder"
+msgstr "カスタムウィジェットエリアビルダー"
+
+#: inc/class-flash-admin.php:398
+msgid "Footer Copyright Editor"
+msgstr "フッターコピーライトエディター"
+
+#: inc/class-flash-admin.php:393
+msgid "Polylang Compatible"
+msgstr "Polylang 対応"
+
+#: inc/class-flash-admin.php:388
+msgid "WPML Compatible"
+msgstr "WPML 対応"
+
+#: inc/class-flash-admin.php:383
+msgid "YITH Wishlist Compatible"
+msgstr "YITH Wishlist 対応"
+
+#: inc/class-flash-admin.php:378
+msgid "WooCommerce Compatible"
+msgstr "WooCommerce 対応"
+
+#: inc/class-flash-admin.php:373
+msgid "Translation Ready"
+msgstr "翻訳対応"
+
+#: inc/class-flash-admin.php:370
+msgid "13+ Color Options"
+msgstr "13色以上のカラーオプション"
+
+#: inc/class-flash-admin.php:369
+msgid "Primary Color Option"
+msgstr "メインカラー設定"
+
+#: inc/class-flash-admin.php:368
+msgid "Color Palette"
+msgstr "カラーパレット"
+
+#: inc/class-flash-admin.php:363
+msgid "Font Size options"
+msgstr "フォントサイズ設定"
+
+#: inc/class-flash-admin.php:360
+msgid "800+"
+msgstr "800以上"
+
+#: inc/class-flash-admin.php:358
+msgid "Google Fonts"
+msgstr "Google フォント"
+
+#: inc/class-flash-admin.php:355
+msgid "6"
+msgstr "6"
+
+#: inc/class-flash-admin.php:354 inc/class-flash-admin.php:359
+#: inc/class-flash-admin.php:419
+msgid "3"
+msgstr "3"
+
+#: inc/class-flash-admin.php:353
+msgid "Header Layouts"
+msgstr "ヘッダーレイアウト"
+
+#: inc/class-flash-admin.php:348
+msgid "Flash Pro"
+msgstr "Flash Pro"
+
+#: inc/class-flash-admin.php:346
+msgid "Features"
+msgstr "特徴"
+
+#: inc/class-flash-admin.php:225
+msgid "Click below to translate this theme into your own language."
+msgstr "このテーマをあなたの言語に翻訳するには、以下をクリックしてください。"
+
+#: inc/class-flash-admin.php:221 inc/class-flash-admin.php:229
+msgid "Translate"
+msgstr "翻訳する"
+
+#: inc/class-flash-admin.php:152
+msgid "Free Vs Pro"
+msgstr "フリー版とプロ版を比較"
+
+#: inc/extras.php:322
+msgid "Page "
+msgstr "ページ"
+
+#: inc/customizer.php:40
+msgid "Flash Important Links"
+msgstr "Flash 重要なリンク"
+
+#: inc/class-flash-admin.php:208 inc/class-flash-admin.php:341
+msgid "Upgrade to PRO version for more exciting features."
+msgstr "より多くの機能のためにPROバージョンにアップグレードします。"
+
+#: inc/class-flash-admin.php:132
+msgid "View Pro Demos"
+msgstr "プロ版のデモを表示"
+
+#: inc/class-flash-admin.php:130 inc/class-flash-admin.php:209
+#: inc/class-flash-admin.php:511
+msgid "View Pro"
+msgstr "プロ版を表示"
+
+#: inc/class-flash-admin.php:128
+msgid "View Free Demos"
+msgstr "無料デモを表示"
+
+#. Template Name of the plugin/theme
+msgid "Pagebuilder"
+msgstr "Pagebuilder"
+
+#: template-parts/content-page.php:25 template-parts/content.php:65
+msgid "Pages:"
+msgstr "ページ: "
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</a>してください。"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "見つかりませんでした"
+
+#: searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr "検索"
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "検索 &hellip;"
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "検索対象:"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:77 template-parts/content-page.php:37
+msgid "Edit %s"
+msgstr "%sの編集"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:59 inc/template-tags.php:67
+msgid ", "
+msgstr "・"
+
+#: inc/meta-boxes.php:57
+msgid "Header Transparency"
+msgstr "ヘッダーの透明度"
+
+#: inc/meta-boxes.php:55 inc/meta-boxes.php:56
+msgid "Select Layout"
+msgstr "レイアウトを選択"
+
+#: inc/meta-boxes.php:47
+msgid "Non Transparent Header"
+msgstr "非透過ヘッダー"
+
+#: inc/meta-boxes.php:42
+msgid "Transparent Header"
+msgstr "透過ヘッダー"
+
+#: inc/meta-boxes.php:34
+msgid "Full Width Center"
+msgstr "全幅・中央"
+
+#. #-#-#-#-#  flash.pot (Flash 1.1.3)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: inc/meta-boxes.php:29
+msgid "Full Width"
+msgstr "全幅"
+
+#: inc/meta-boxes.php:14
+msgid "Default Layout"
+msgstr "デフォルトのレイアウト"
+
+#: inc/kirki/includes/class-kirki-l10n.php:213
+msgid "Hex Value"
+msgstr "16進値"
+
+#: inc/kirki/includes/class-kirki-l10n.php:212
+msgid "Switch Editor"
+msgstr "エディターを切り替え"
+
+#: inc/kirki/includes/class-kirki-l10n.php:211
+msgid "Close Editor"
+msgstr "エディターを閉じる"
+
+#: inc/kirki/includes/class-kirki-l10n.php:210
+msgid "Open Editor"
+msgstr "エディターを開く"
+
+#: inc/kirki/includes/class-kirki-l10n.php:209
+msgid "Select a Page"
+msgstr "ページを選択"
+
+#: inc/kirki/includes/class-kirki-l10n.php:208
+msgid "Initial"
+msgstr "初期設定"
+
+#: inc/kirki/includes/class-kirki-l10n.php:207
+msgid "Lowercase"
+msgstr "小文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:206
+msgid "Uppercase"
+msgstr "大文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:205
+msgid "Capitalize"
+msgstr "先頭大文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:204
+msgid "None"
+msgstr "なし"
+
+#: inc/kirki/includes/class-kirki-l10n.php:203
+msgid "Text Transform"
+msgstr "文字の変形"
+
+#: inc/kirki/includes/class-kirki-l10n.php:202
+msgid "Text Align"
+msgstr "文字の配置"
+
+#: inc/kirki/includes/class-kirki-l10n.php:201
+msgid "%s Reset"
+msgstr "%s リセット"
+
+#: inc/kirki/includes/class-kirki-l10n.php:200
+#: inc/kirki/includes/sections/class-kirki-sections-hover-section.php:46
+msgid "Back"
+msgstr "戻る"
+
+#: inc/kirki/includes/class-kirki-l10n.php:199
+#: inc/kirki/includes/sections/class-kirki-sections-hover-section.php:40
+msgid "Press return or enter to open this section"
+msgstr "このセクションを開くには Return または Enter キーを押してください"
+
+#: inc/kirki/includes/class-kirki-l10n.php:198
+msgid "Limit: %s rows"
+msgstr "上限: %s行"
+
+#: inc/kirki/includes/class-kirki-l10n.php:197
+msgid "row"
+msgstr "行"
+
+#: inc/kirki/includes/class-kirki-l10n.php:196
+msgid "Add new"
+msgstr "新規追加"
+
+#: inc/kirki/includes/class-kirki-l10n.php:195
+msgid "Invalid Value"
+msgstr "無効な値"
+
+#: inc/kirki/includes/class-kirki-l10n.php:194
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:193
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: inc/kirki/includes/class-kirki-l10n.php:192
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold 800 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:191
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: inc/kirki/includes/class-kirki-l10n.php:190
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:189
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: inc/kirki/includes/class-kirki-l10n.php:188
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:187
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: inc/kirki/includes/class-kirki-l10n.php:186
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:185
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: inc/kirki/includes/class-kirki-l10n.php:184
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:183
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: inc/kirki/includes/class-kirki-l10n.php:182
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:181
+msgid "Book 300"
+msgstr "Book 300"
+
+#: inc/kirki/includes/class-kirki-l10n.php:180
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:179
+msgid "Light 200"
+msgstr "Light 200"
+
+#: inc/kirki/includes/class-kirki-l10n.php:178
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:177
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#: inc/kirki/includes/class-kirki-l10n.php:176
+msgid "Spacing"
+msgstr "スペース"
+
+#: inc/kirki/includes/class-kirki-l10n.php:175
+msgid "Height"
+msgstr "高さ"
+
+#: inc/kirki/includes/class-kirki-l10n.php:174
+msgid "Size"
+msgstr "サイズ"
+
+#: inc/kirki/includes/class-kirki-l10n.php:173
+msgid "Subset"
+msgstr "サブセット"
+
+#: inc/kirki/includes/class-kirki-l10n.php:172
+msgid "Variant"
+msgstr "Variant"
+
+#: inc/kirki/includes/class-kirki-l10n.php:171
+msgid "Select a font-family"
+msgstr "フォントファミリーを選択"
+
+#: inc/kirki/includes/class-kirki-l10n.php:170
+msgid "Remove"
+msgstr "削除"
+
+#: inc/kirki/includes/class-kirki-l10n.php:169
+msgid "No File Selected"
+msgstr "ファイルが選択されていません"
+
+#: inc/kirki/includes/class-kirki-l10n.php:168
+msgid "Change File"
+msgstr "ファイルを変更"
+
+#: inc/kirki/includes/class-kirki-l10n.php:167
+msgid "Add File"
+msgstr "ファイルを追加"
+
+#: inc/kirki/includes/class-kirki-l10n.php:166
+msgid "No Image Selected"
+msgstr "画像が選択されていません"
+
+#: inc/kirki/includes/class-kirki-l10n.php:165
+msgid "Change Image"
+msgstr "画像の変更"
+
+#: inc/kirki/includes/class-kirki-l10n.php:164
+msgid "Add Image"
+msgstr "画像を追加"
+
+#: inc/kirki/includes/class-kirki-l10n.php:163
+msgid "Color"
+msgstr "色"
+
+#: inc/kirki/includes/class-kirki-l10n.php:162
+msgid "Justify"
+msgstr "両端揃え"
+
+#: inc/kirki/includes/class-kirki-l10n.php:161
+msgid "Center"
+msgstr "中央"
+
+#: inc/kirki/includes/class-kirki-l10n.php:160
+msgid "Right"
+msgstr "右"
+
+#: inc/kirki/includes/class-kirki-l10n.php:159
+msgid "Left"
+msgstr "左"
+
+#: inc/kirki/includes/class-kirki-l10n.php:158
+msgid "Bottom"
+msgstr "下"
+
+#: inc/kirki/includes/class-kirki-l10n.php:157
+msgid "Top"
+msgstr "上"
+
+#: inc/kirki/includes/class-kirki-l10n.php:156
+msgid "Letter Spacing"
+msgstr "文字間隔"
+
+#: inc/kirki/includes/class-kirki-l10n.php:155
+msgid "Font Style"
+msgstr "フォントスタイル"
+
+#: inc/kirki/includes/class-kirki-l10n.php:154
+msgid "Line Height"
+msgstr "行の高さ"
+
+#: inc/kirki/includes/class-kirki-l10n.php:153
+msgid "Font Weight"
+msgstr "フォントの太さ"
+
+#: inc/kirki/includes/class-kirki-l10n.php:152
+msgid "Font Size"
+msgstr "フォントサイズ"
+
+#: inc/kirki/includes/class-kirki-l10n.php:151
+msgid "Font Family"
+msgstr "フォントファミリー"
+
+#: inc/kirki/includes/class-kirki-l10n.php:150
+msgctxt "font style"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: inc/kirki/includes/class-kirki-l10n.php:149
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: inc/kirki/includes/class-kirki-l10n.php:148
+msgctxt "font style"
+msgid "Serif"
+msgstr "Serif"
+
+#: inc/kirki/includes/class-kirki-l10n.php:147
+msgid "Thai"
+msgstr "タイ文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:146
+msgid "Telugu"
+msgstr "テルグ文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:145
+msgid "Tamil"
+msgstr "タミル文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:144
+msgid "Gujarati"
+msgstr "グジャラート文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:143
+msgid "Bengali"
+msgstr "ベンガル文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:142
+msgid "Arabic"
+msgstr "アラビア文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:141
+msgid "Hebrew"
+msgstr "ヘブライ文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:140
+msgid "Vietnamese"
+msgstr "ベトナム文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:139
+msgid "Latin Extended"
+msgstr "拡張ラテン文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:138
+msgid "Latin"
+msgstr "ラテン文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:137
+msgid "Khmer"
+msgstr "クメール文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:136
+msgid "Greek Extended"
+msgstr "拡張ギリシャ文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:135
+msgid "Greek"
+msgstr "ギリシア文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:134
+msgid "Devanagari"
+msgstr "デバナーガリ文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:133
+msgid "Cyrillic Extended"
+msgstr "拡張キリル文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:132
+msgid "Cyrillic"
+msgstr "キリル文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:131
+msgid "All"
+msgstr "すべて"
+
+#: inc/kirki/includes/class-kirki-l10n.php:130
+msgid "OFF"
+msgstr "オフ"
+
+#: inc/kirki/includes/class-kirki-l10n.php:129
+msgid "ON"
+msgstr "オン"
+
+#: inc/kirki/includes/class-kirki-l10n.php:128
+msgid "Background Opacity"
+msgstr "背景の透明度"
+
+#: inc/kirki/includes/class-kirki-l10n.php:127
+msgid "Background Position"
+msgstr "背景の位置"
+
+#: inc/kirki/includes/class-kirki-l10n.php:126
+msgid "Center Bottom"
+msgstr "中央下"
+
+#: inc/kirki/includes/class-kirki-l10n.php:125
+msgid "Center Center"
+msgstr "中央"
+
+#: inc/kirki/includes/class-kirki-l10n.php:124
+msgid "Center Top"
+msgstr "中央上"
+
+#: inc/kirki/includes/class-kirki-l10n.php:123
+msgid "Right Bottom"
+msgstr "右下"
+
+#: inc/kirki/includes/class-kirki-l10n.php:122
+msgid "Right Center"
+msgstr "右中央"
+
+#: inc/kirki/includes/class-kirki-l10n.php:121
+msgid "Right Top"
+msgstr "右上"
+
+#: inc/kirki/includes/class-kirki-l10n.php:120
+msgid "Left Bottom"
+msgstr "左下"
+
+#: inc/kirki/includes/class-kirki-l10n.php:119
+msgid "Left Center"
+msgstr "左中央"
+
+#: inc/kirki/includes/class-kirki-l10n.php:118
+msgid "Left Top"
+msgstr "左上"
+
+#: inc/kirki/includes/class-kirki-l10n.php:117
+msgid "Background Attachment"
+msgstr "背景スクロール"
+
+#: inc/kirki/includes/class-kirki-l10n.php:116
+msgid "Scroll"
+msgstr "スクロール"
+
+#: inc/kirki/includes/class-kirki-l10n.php:115
+msgid "Fixed"
+msgstr "固定"
+
+#: inc/kirki/includes/class-kirki-l10n.php:114
+msgid "Background Size"
+msgstr "背景のサイズ"
+
+#: inc/kirki/includes/class-kirki-l10n.php:113
+msgid "Contain"
+msgstr "画像全体を表示"
+
+#: inc/kirki/includes/class-kirki-l10n.php:112
+msgid "Cover"
+msgstr "背景全体を覆う"
+
+#: inc/kirki/includes/class-kirki-l10n.php:111
+msgid "Background Repeat"
+msgstr "背景の繰り返し"
+
+#: inc/kirki/includes/class-kirki-l10n.php:110
+msgid "Inherit"
+msgstr "継承"
+
+#: inc/kirki/includes/class-kirki-l10n.php:109
+msgid "Repeat Vertically"
+msgstr "タテに繰り返し"
+
+#: inc/kirki/includes/class-kirki-l10n.php:108
+msgid "Repeat Horizontally"
+msgstr "ヨコに繰り返し"
+
+#: inc/kirki/includes/class-kirki-l10n.php:107
+msgid "Repeat All"
+msgstr "すべて繰り返し"
+
+#: inc/kirki/includes/class-kirki-l10n.php:106
+msgid "No Repeat"
+msgstr "繰り返しなし"
+
+#: inc/kirki/includes/class-kirki-l10n.php:105
+msgid "Background Image"
+msgstr "背景画像"
+
+#: inc/kirki/includes/class-kirki-l10n.php:104
+msgid "Background Color"
+msgstr "背景色"
+
+#: inc/extras.php:356
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: inc/extras.php:353
+msgid "Page NOT Found"
+msgstr "ページが見つかりませんでした"
+
+#: inc/extras.php:332
+msgid "404 Error"
+msgstr "404 エラー"
+
+#: inc/extras.php:327
+msgid "Search results for: "
+msgstr "検索結果: "
+
+#: inc/extras.php:285 inc/extras.php:288 inc/extras.php:298 inc/extras.php:306
+msgid "Y"
+msgstr "Y"
+
+#: inc/extras.php:140
+msgid "Home"
+msgstr "ホーム"
+
+#: inc/extras.php:121
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/extras.php:121
+msgid "https://wordpress.org/"
+msgstr "https://ja.wordpress.org/"
+
+#: inc/extras.php:121
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: inc/extras.php:120
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: inc/extras.php:118
+msgid "Copyright %1$s %2$s"
+msgstr "Copyright %1$s %2$s"
+
+#: inc/demo-config.php:36
+msgid "Flash Construction"
+msgstr "Flash Construction"
+
+#: inc/demo-config.php:32
+msgid "Flash Food"
+msgstr "Flash Food"
+
+#: inc/demo-config.php:28
+msgid "Flash OnePage"
+msgstr "Flash OnePage"
+
+#: inc/demo-config.php:24
+msgid "Flash Default"
+msgstr "Flash デフォルト"
+
+#: inc/customizer.php:796
+msgid "Yellow"
+msgstr "黄色"
+
+#: inc/customizer.php:787
+msgid "Red"
+msgstr "赤"
+
+#: inc/customizer.php:778
+msgid "Gray"
+msgstr "グレー"
+
+#: inc/customizer.php:769
+msgid "Dark"
+msgstr "ダーク"
+
+#: inc/customizer.php:760
+msgid "Default"
+msgstr "デフォルト"
+
+#: inc/customizer.php:654 inc/customizer.php:673
+msgid "Google Font Settings"
+msgstr "Google フォント設定"
+
+#: inc/customizer.php:645 inc/customizer.php:664
+msgid "Body font. Default is \"Montserrat\"."
+msgstr "Body フォント。 デフォルトは \"Montserrat\"。"
+
+#: inc/customizer.php:636
+msgid "Secondary Text Color"
+msgstr "２番目の文字色"
+
+#: inc/customizer.php:624
+msgid "Main Text Color"
+msgstr "メインテキストの色"
+
+#: inc/customizer.php:612
+msgid "Link Color"
+msgstr "リンクの色"
+
+#: inc/customizer.php:594
+msgid "Base Color Scheme"
+msgstr "基本の配色"
+
+#: inc/customizer.php:505
+msgid "Custom CSS"
+msgstr "カスタム CSS"
+
+#: inc/customizer.php:494
+msgid "Advanced Settings"
+msgstr "高度な設定"
+
+#: inc/customizer.php:488
+msgid "4 Footer Widgets"
+msgstr "フッターウィジェット 4"
+
+#: inc/customizer.php:487
+msgid "3 Footer Widgets"
+msgstr "フッターウィジェット 3"
+
+#: inc/customizer.php:486
+msgid "2 Footer Widgets"
+msgstr "フッターウィジェット 2"
+
+#: inc/customizer.php:485
+msgid "1 Footer Widgets"
+msgstr "フッターウィジェット 1"
+
+#: inc/customizer.php:479
+msgid "Footer Widget Area"
+msgstr "フッターウィジェットエリア"
+
+#: inc/customizer.php:469
+msgid "Footer Settings"
+msgstr "フッター設定"
+
+#: inc/customizer.php:454
+msgid "Page Layout"
+msgstr "固定ページレイアウト"
+
+#: inc/customizer.php:444
+msgid "Page Settings"
+msgstr "固定ページ設定"
+
+#: inc/customizer.php:436
+msgid "Remove next/previous link from post"
+msgstr "投稿から「次へ / 前へ」のリンクを削除"
+
+#: inc/customizer.php:426
+msgid "Remove Author Bio from post"
+msgstr "投稿から投稿者プロフィールを削除"
+
+#: inc/customizer.php:409
+msgid "Single Post Layout"
+msgstr "個別投稿のレイアウト"
+
+#: inc/customizer.php:398
+msgid "Post Settings"
+msgstr "投稿設定"
+
+#: inc/customizer.php:390
+msgid "Remove tag from post meta"
+msgstr "投稿メタ情報からタグを削除"
+
+#: inc/customizer.php:380
+msgid "Remove category from post meta"
+msgstr "投稿メタ情報からカテゴリーを削除"
+
+#: inc/customizer.php:370
+msgid "Remove comment count from post meta"
+msgstr "投稿メタ情報からコメント数を削除"
+
+#: inc/customizer.php:360
+msgid "Remove author from post meta"
+msgstr "投稿メタ情報から投稿者を削除"
+
+#: inc/customizer.php:350
+msgid "Remove date from post meta"
+msgstr "投稿メタ情報から投稿日を削除"
+
+#: inc/customizer.php:333
+msgid "Archive Page Layout"
+msgstr "アーカイブページレイアウト"
+
+#: inc/customizer.php:325
+msgid "Grid Layout"
+msgstr "グリッドレイアウト"
+
+#: inc/customizer.php:323
+msgid "Classic"
+msgstr "クラシック"
+
+#: inc/customizer.php:317
+msgid "Blog Style"
+msgstr "ブログスタイル"
+
+#: inc/customizer.php:307
+msgid "Archive Page Settings"
+msgstr "アーカイブページ設定"
+
+#: inc/customizer.php:299
+msgid "Page Header Background"
+msgstr "ページヘッダー背景"
+
+#: inc/customizer.php:289
+msgid "Remove breadcrumbs from page header"
+msgstr "ページヘッダーからパンくずリストを削除"
+
+#: inc/customizer.php:279
+msgid "Page Header Settings"
+msgstr "ページヘッダー設定"
+
+#: inc/customizer.php:271
+msgid "Sticky Header"
+msgstr "上部固定のヘッダー"
+
+#: inc/customizer.php:260
+msgid "Remove Header Cart Icon"
+msgstr "ヘッダーカートアイコンを削除"
+
+#: inc/customizer.php:250
+msgid "Remove Header Search Box"
+msgstr "ヘッダー検索ボタンを削除"
+
+#: inc/customizer.php:242
+msgid "Center Logo and Below Menu"
+msgstr "中央ロゴと下メニュー"
+
+#: inc/customizer.php:241
+msgid "Right Logo and Left Menu"
+msgstr "右ロゴと左メニュー"
+
+#: inc/customizer.php:240
+msgid "Left Logo and Right Menu"
+msgstr "左ロゴと右メニュー"
+
+#: inc/customizer.php:234
+msgid "Logo and Menu Position"
+msgstr "ロゴとメニューの位置"
+
+#: inc/customizer.php:224
+msgid "Header Settings"
+msgstr "ヘッダー設定"
+
+#: inc/customizer.php:204
+msgid "Top Header Text Content"
+msgstr "トップヘッダーのテキストコンテンツ"
+
+#: inc/customizer.php:181
+msgid "Top Header Right Content"
+msgstr "トップヘッダーの右コンテンツ"
+
+#: inc/customizer.php:166 inc/customizer.php:189
+msgid "Disable"
+msgstr "無効化"
+
+#: inc/customizer.php:165 inc/customizer.php:188
+msgid "Top Header Text"
+msgstr "トップヘッダーテキスト"
+
+#: inc/customizer.php:164 inc/customizer.php:187
+msgid "Social Menu"
+msgstr "ソーシャルメニュー"
+
+#: inc/customizer.php:158
+msgid "Top Header Left Content"
+msgstr "トップヘッダー左コンテンツ"
+
+#: inc/customizer.php:148
+msgid "Enable Top Header"
+msgstr "トップヘッダーを有効にする"
+
+#: inc/customizer.php:138
+msgid "Top Header Settings"
+msgstr "トップヘッダー設定"
+
+#: inc/customizer.php:130
+msgid "Disable Back to Top Button?"
+msgstr "トップへ戻るボタンを無効にしますか ?"
+
+#: inc/customizer.php:120
+msgid "Disable Preloader?"
+msgstr "プリローダーを無効にしますか ?"
+
+#: inc/customizer.php:112
+msgid "Boxed Layout"
+msgstr "ボックスレイアウト"
+
+#: inc/customizer.php:111
+msgid "Wide Layout"
+msgstr "ワイドレイアウト"
+
+#: inc/customizer.php:105
+msgid "Site Layout"
+msgstr "サイトレイアウト"
+
+#: inc/customizer.php:95
+msgid "General Settings"
+msgstr "一般設定"
+
+#: inc/customizer.php:35
+msgid "Flash Theme Options"
+msgstr "Flash テーマ設定"
+
+#: inc/customizer.php:26
+msgid "Transparent Logo"
+msgstr "透過ロゴ"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグインをインストール中 %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "すべてのインストールが完了しました。"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s を正常にインストールしました。"
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "更新プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグインをインストール、有効化中 %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "すべてのインストールと有効化が完了しました。"
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "詳細を非表示"
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "詳細を表示"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s を正常にインストールし、有効化しました。"
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "インストールと有効化プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "%1$s のインストールに失敗しました。"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "<strong>%2$s</strong>%1$s のインストール中にエラーが発生しました。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグインの更新中 %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "プラグインの有効化に失敗しました。"
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "現時点で有効化できるプラグインはありません。"
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "有効化するプラグインが選択されていません。何も実行しませんでした。"
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "現在更新できるプラグインはありません。"
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "現時点でインストールできるプラグインはありません。"
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "更新するプラグインが選択されていません。何も実行しませんでした。"
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "インストールするプラグインが選択されていません。何も実行しませんでした。"
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "有効化"
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "更新"
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "インストール"
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "プラグイン作者からの更新メッセージ:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "%2$s を有効化"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "%2$s を更新"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "%2$s をインストール"
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "状態"
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "バージョン"
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "タイプ"
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "ソース"
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "インストール・更新・有効化可能なプラグインがありません。"
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "利用可能なバージョン:"
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "最低要求バージョン: "
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "インストールしたバージョン: "
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "不明"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "使用中 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "利用可能な更新 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "未インストール <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "すべて <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s、%2$s"
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "更新が推奨されています"
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "更新が必要です"
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "必要な更新が利用できません"
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "有効"
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "停止中"
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "未インストール"
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "プリパッケージ"
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "外部ソース"
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress 公式ディレクトリ"
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "推奨"
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "必須"
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "と"
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルは1つのフォルダー内にパッケージされていません。"
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "プラグイン開発者に連絡し、WordPress のガイドラインに沿ったプラグインのパッケージ化を依頼してください。"
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "リモートプラグインパッケージには、指定されたスラッグのフォルダーがないため、名前の変更ができませんでした。"
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "更新が必要です"
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "使用中のテーマとの互換性を保つため、このプラグインを更新する必要があります。"
+
+#: inc/class-tgm-plugin-activation.php:397 inc/extras.php:679
+msgid "Please contact the administrator of this site for help."
+msgstr "ヘルプが必要な場合はこのサイトの管理者にお問い合わせください。"
+
+#: inc/class-tgm-plugin-activation.php:396 inc/extras.php:678
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "インストール・更新・有効化可能な必須・推奨プラグインがあります。"
+
+#: inc/class-tgm-plugin-activation.php:395 inc/extras.php:677
+msgid "Dismiss this notice"
+msgstr "無視する"
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:394 inc/extras.php:676
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "すべてのプラグインを正常にインストールし、有効化しました。 %1$s"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:392 inc/extras.php:674
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "プラグインを有効化できませんでした。このテーマには上位バージョンの %s が必要です。プラグインを更新してください。"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:390 inc/extras.php:672
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "操作を実行しませんでした。プラグイン %1$s はすでに有効です。"
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952 inc/extras.php:670
+msgid "The following plugin was activated successfully:"
+msgstr "以下のプラグインを有効化しました:"
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159 inc/extras.php:669
+msgid "Plugin activated successfully."
+msgstr "プラグインを有効化しました。"
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: inc/class-tgm-plugin-activation.php:385 inc/extras.php:668
+msgid "Return to Required Plugins Installer"
+msgstr "必須プラグインのインストール画面に戻る"
+
+#: inc/class-tgm-plugin-activation.php:380 inc/extras.php:663
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "プラグインの有効化を開始"
+
+#: inc/class-tgm-plugin-activation.php:375 inc/extras.php:658
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "プラグインの更新を開始"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:370 inc/extras.php:653
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "プラグインのインストールを開始"
+
+#: inc/class-tgm-plugin-activation.php:333 inc/extras.php:616
+msgid "Something went wrong with the plugin API."
+msgstr "プラグイン API で問題が発生しました。"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:332 inc/extras.php:615
+msgid "Updating Plugin: %s"
+msgstr "プラグインの更新:  %s"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:330 inc/extras.php:613
+msgid "Installing Plugin: %s"
+msgstr "プラグインをインストール中: %s"
+
+#: inc/class-tgm-plugin-activation.php:328 inc/extras.php:611
+msgid "Install Plugins"
+msgstr "プラグインのインストール"
+
+#: inc/class-tgm-plugin-activation.php:327 inc/extras.php:610
+msgid "Install Required Plugins"
+msgstr "必要なプラグインのインストール"
+
+#: inc/class-flash-admin.php:324
+msgid "RestaurantPress"
+msgstr "RestaurantPress"
+
+#: inc/class-flash-admin.php:323
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/class-flash-admin.php:322
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/class-flash-admin.php:319
+msgid "Easy Social Sharing"
+msgstr "Easy Social Sharing"
+
+#: inc/class-flash-admin.php:317 inc/class-flash-admin.php:320
+#: inc/class-flash-admin.php:325
+msgid " by ThemeGrill"
+msgstr " by ThemeGrill"
+
+#: inc/class-flash-admin.php:316
+msgid "Social Icons"
+msgstr "ソーシャルアイコン"
+
+#: inc/class-flash-admin.php:314
+msgid "This theme recommends following plugins."
+msgstr "このテーマは、下記のプラグインの使用をお勧めします。"
+
+#: inc/class-flash-admin.php:262
+msgid "View changelog below."
+msgstr "更新履歴を表示。"
+
+#: inc/class-flash-admin.php:245
+msgid "Go to Dashboard"
+msgstr "管理画面にすすむ"
+
+#: inc/class-flash-admin.php:245
+msgid "Go to Dashboard &rarr; Home"
+msgstr "ダッシュボード &rarr; ホームに移動"
+
+#: inc/class-flash-admin.php:242
+msgid "Return to Dashboard &rarr; Updates"
+msgstr "ダッシュボード&rarr;更新に戻る"
+
+#: inc/class-flash-admin.php:242
+msgid "Return to Updates"
+msgstr "更新に戻る"
+
+#: inc/class-flash-admin.php:215
+msgid "Contact Page"
+msgstr "お問い合わせページ"
+
+#: inc/class-flash-admin.php:214
+msgid "Please send it via our sales contact page."
+msgstr "当社のコンタクトページから送信してください。"
+
+#: inc/class-flash-admin.php:213
+msgid "Got sales related question?"
+msgstr "販売に関する質問がありますか？"
+
+#: inc/class-flash-admin.php:203
+msgid "Support Forum"
+msgstr "サポートフォーラム "
+
+#: inc/class-flash-admin.php:202
+msgid "Please put it in our dedicated support forum."
+msgstr "当社の専用サポートフォーラムで質問してください。"
+
+#: inc/class-flash-admin.php:201
+msgid "Got theme support question?"
+msgstr "テーマのサポートに関する質問がありますか ?"
+
+#: inc/class-flash-admin.php:196
+msgid "Please view our documentation page to setup the theme."
+msgstr "テーマをセットアップするためのドキュメントページをご覧ください。"
+
+#: inc/class-flash-admin.php:195 inc/class-flash-admin.php:197
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: inc/class-flash-admin.php:191
+msgid "Customize"
+msgstr "カスタマイズ"
+
+#: inc/class-flash-admin.php:190
+msgid "All Theme Options are available via Customize screen."
+msgstr "すべてのテーマオプションは、カスタマイズ画面から利用できます。"
+
+#: inc/class-flash-admin.php:189
+msgid "Theme Customizer"
+msgstr "テーマカスタマイザー"
+
+#: inc/class-flash-admin.php:155
+msgid "Changelog"
+msgstr "更新履歴"
+
+#: inc/class-flash-admin.php:149
+msgid "Supported Plugins"
+msgstr "サポートされているプラ​​グイン"
+
+#: inc/class-flash-admin.php:137
+msgid "Demo Importer"
+msgstr "デモインポーター"
+
+#: inc/class-flash-admin.php:141
+msgid "Rate this theme"
+msgstr "このテーマを評価"
+
+#: inc/class-flash-admin.php:126
+msgid "Theme Info"
+msgstr "テーマ情報"
+
+#: inc/class-flash-admin.php:92
+msgid "Get started with Flash"
+msgstr "Flash ではじめてみよう"
+
+#: inc/class-flash-admin.php:90
+msgid "Welcome! Thank you for choosing Flash! To fully take advantage of the best our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr "ようこそ! Flash を選んでいただいてありがとうございます。 テーマを最大限に活用するには、 %1$s ようこそページ %2$s をご覧ください。"
+
+#: inc/class-flash-admin.php:89
+msgid "Dismiss"
+msgstr "非表示にする"
+
+#: inc/class-flash-admin.php:76
+msgid "Cheatin&#8217; huh?"
+msgstr "不正な行為です"
+
+#: inc/class-flash-admin.php:73
+msgid "Action failed. Please refresh the page and retry."
+msgstr "操作を失敗しました。ページをリフレッシュし、再試行してください。"
+
+#: inc/class-flash-admin.php:36 inc/class-flash-admin.php:112
+msgid "About"
+msgstr "紹介"
+
+#: header.php:47
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: functions.php:179
+msgid "Add widgets here for footer sidebar 4."
+msgstr "フッターサイドバー４のウィジェットをここに追加"
+
+#: functions.php:177
+msgid "Footer Sidebar 4"
+msgstr "フッターサイドバー 4"
+
+#: functions.php:169
+msgid "Add widgets here for footer sidebar 3."
+msgstr "フッターサイドバー３のウィジェットをここに追加"
+
+#: functions.php:167
+msgid "Footer Sidebar 3"
+msgstr "フッターサイドバー 3"
+
+#: functions.php:159
+msgid "Add widgets here for footer sidebar 2."
+msgstr "フッターサイドバー２のウィジェットをここに追加"
+
+#: functions.php:157
+msgid "Footer Sidebar 2"
+msgstr "フッターサイドバー 2"
+
+#: functions.php:149
+msgid "Add widgets here for footer sidebar 1."
+msgstr "フッターサイドバー１のウィジェットをここに追加"
+
+#: functions.php:147
+msgid "Footer Sidebar 1"
+msgstr "フッターサイドバー 1"
+
+#: functions.php:139
+msgid "Add widgets here for left sidebar."
+msgstr "左サイドバーのウィジェットをここに追加"
+
+#: functions.php:137 inc/meta-boxes.php:24
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+#: functions.php:129
+msgid "Add widgets here for right sidebar."
+msgstr "右サイドバーのウィジェットをここに追加"
+
+#: functions.php:127 inc/meta-boxes.php:19
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: functions.php:61
+msgid "Footer"
+msgstr "フッター"
+
+#: functions.php:60
+msgid "Social"
+msgstr "ソーシャル"
+
+#: functions.php:59
+msgid "Primary"
+msgstr "メイン"
+
+#: comments.php:92
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:57 comments.php:79
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: comments.php:56 comments.php:78
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: comments.php:53 comments.php:75
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: 404.php:29
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ここには何も見つかりませんでした。以下のリンクまたは検索をお試しください。"
+
+#: 404.php:25
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "お探しのページが見つかりません。"
+
+#. Author URI of the plugin/theme
+msgid "https://themegrill.com"
+msgstr "https://themegrill.com"
+
+#. Author of the plugin/theme
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#. Theme URI of the plugin/theme
+msgid "https://themegrill.com/themes/flash"
+msgstr "https://themegrill.com/themes/flash"
